@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxVpXd+tPz0aD9SNPqraDcoqlGxK7h6HxDT4Kg8Yd20BPUyyHiQAoFQgqXSCwr1Kot5j6P3/ISazpgP+QnjeXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\api-netcore-rabbitmq\\ApiRabbit\\ConsoleApplicationOrder\\ConsoleApplicationOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Italo\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

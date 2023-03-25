@@ -1,0 +1,16 @@
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.runtimeconfig.json
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.runtimeconfig.dev.json
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\ConsoleApplicationOrder.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.csproj.AssemblyReference.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.AssemblyInfoInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.AssemblyInfo.cs
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.csproj.CoreCompileInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.csproj.CopyComplete
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\api-netcore-rabbitmq\ApiRabbit\ConsoleApplicationOrder\obj\Debug\netcoreapp3.1\ConsoleApplicationOrder.genruntimeconfig.cache
